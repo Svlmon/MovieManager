@@ -67,4 +67,10 @@ Ce projet a été réalisé par deux étudiants en Master M1IL à l'IPI Blagnac 
 
 ## Remerciements
 
+<<<<<<< HEAD
 Nous tenons à exprimer nos remerciements à notre enseignant, Alex FAIVRE, pour sa formation et ses conseils tout au long de ce module. Son expertise et surtout sa passion nous ont aidés à acquérir les compétences nécessaires pour mener à bien ce projet. Merci pour votre disponibilité et votre engagement à faire de ce cours un apprentissage technique. :rocket:
+=======
+Nous tenons à exprimer nos remerciements à notre enseignant, Alex FAIVRE, pour sa formation et ses conseils tout au long de ce module. Son expertise et surtout sa passion nous ont aidés à acquérir les compétences nécessaires pour mener à bien ce projet. Merci pour votre disponibilité et votre engagement à faire de ce cours un apprentissage technique. :rocket:
+
+
+>>>>>>> 87a77a42f552a4936176993fbed7d412da58330d
